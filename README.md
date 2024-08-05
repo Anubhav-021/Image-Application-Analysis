@@ -25,3 +25,7 @@ Streamlit: For creating the interactive web interface.
 Python: The main programming language used.
 
 Google Generative AI: For generating descriptive content about the images.
+
+## Screenshots
+
+
