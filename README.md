@@ -25,7 +25,9 @@ mage Analysis Application is a web application that leverages the power of Googl
 
 2. Python: The main programming language used.
 
-3. Google Generative AI: For generating descriptive content about the images.
+3. Pillow: For image processing.
+
+4. Google Generative AI: For generating descriptive content about the images.
 
 ## Screenshots
 
