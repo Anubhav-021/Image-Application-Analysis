@@ -28,4 +28,8 @@ Google Generative AI: For generating descriptive content about the images.
 
 ## Screenshots
 
+![Screenshot (283)](https://github.com/user-attachments/assets/33c49fb1-7a26-4122-92bd-8cca792a07cd)
+![Screenshot (284)](https://github.com/user-attachments/assets/9bbdd1fb-4066-4cf3-966e-020d82659507)
+![Screenshot (285)](https://github.com/user-attachments/assets/61230144-ae2f-4602-b1bc-a07cff7b2829)
+
 
